@@ -17,7 +17,7 @@
 
 .EXAMPLE 
 	EmailArchiver -EmailAddress first.lastname@email.com -Remove
-    ./EmailArchiver -EmailAddress larren.austin@ahima.org 
+      ./EmailArchiver -EmailAddress firs.lastname@ahima.org 
 #> 
 
 Param
@@ -52,8 +52,7 @@ catch
 }
 
 # Static Variables
-# $EmailAddress="larren.austin@ahima.org"
-$ArchiveDir="\\ch1nas06\Archive\"
+$ArchiveDir="\\SERVERNAME\Archive\"
 $logdir = Split-Path $MyInvocation.MyCommand.Path
 $incFunctions = $logdir + "\Logging_Functions.ps1"
 $DebugPreference = "Continue"
@@ -118,13 +117,9 @@ Log-Write -LogPath $Usrlogfile -LineValue “TotalItemSize: $TotalItemSize"
 Log-Write -LogPath $Usrlogfile -LineValue " "
 
 # List out all smtp address in the log
-#$EmailAddress = "lydia.washington@ahima.org"
-#$mailbox = get-mailbox $EmailAddress
 for ($i=0;$i -lt $mailbox.EmailAddresses.Count; $i++)
  {
     $address = $mailbox.EmailAddresses[$i]
-    
-    #$host.UI.Write("White", $host.UI.RawUI.BackGroundColor, $address.AddressString.ToString()+"`t")
  
     if ($address.IsPrimaryAddress)
     { 
@@ -155,12 +150,10 @@ catch
 }
 
 # Monitor the status of the export every 60 seconds
-#$EmailAddress = "lydia.washington@ahima.org"
 $exreq = Get-MailboxExportRequest -Mailbox $EmailAddress
 $exstatus = $exreq.status
 #write-host "Status: $exstatus"
 While ($exstatus -eq "InProgress" -OR $exstatus -eq "Queued" ) {
-	# write-host "$(get-date -f yyy-MM-dd_hh:mm:ss) Archive of $EmailAddress Mailbox $exstatus"
     $Per = Get-MailboxExportRequest -Mailbox $EmailAddress | Get-MailboxExportRequestStatistics | Select -ExpandProperty PercentComplete
     Log-Write -LogPath $Usrlogfile -LineValue "$Per precent complete"
     Sleep 60
@@ -190,4 +183,4 @@ if ($Remove)
 
 Log-Finish -LogPath $Usrlogfile -NoExit $True
 
-Log-Email -LogPath $Usrlogfile -EmailFrom "EmailArchiver@ahima.org" -EmailTo "chris.helmkamp@ahima.org" -EmailSubject "EmailArchiver Done"
+Log-Email -LogPath $Usrlogfile -EmailFrom "EmailArchiver@name.net" -EmailTo "YOUREMAIL@name.net" -EmailSubject "EmailArchiver Done"
