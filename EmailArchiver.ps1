@@ -8,7 +8,7 @@
     Author     : Chris Helmkamp 
     Licenced under GPLv3  
 .LINK 
-	https://github.com
+	https://github.com/cjhelmkamp/Powershell/blob/master/EmailArchiver.ps1
     License: http://www.gnu.org/copyleft/gpl.html
 .PARAMETER EmailAddress
     Mandatory. Email address of the users mailbox. Ex: First.Lastname@email.com
