@@ -1,8 +1,10 @@
-﻿import-module ActiveDirectory
+#< Barrowed from the internet, not sure where...
+#>
+import-module ActiveDirectory
 
 $MaxAge = 90
-$Searchbase = "OU=Disabled Users,OU=Ahima,DC=ahima,DC=local"
-$dc = "ch1dc1.ahima.local"
+$Searchbase = "OU=Disabled Users,OU=domain,DC=domain,DC=local"
+$dc = "SERVER.domainname.local"
 
 Get-AdUser -Filter * -SearchBase $Searchbase -Server $dc -Properties PasswordLastSet,LastLogonDate,department,mail | ? { 
      $_.PasswordLastSet -lt [DateTime]::Now.Subtract([TimeSpan]::FromDays($MaxAge)) -or 
