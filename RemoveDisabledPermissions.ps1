@@ -24,14 +24,14 @@ $ts = date -f "yyyy-MM-dd_hh.mm.ss_"
 $resultsarray =@()
 # Create a new custom object to hold our result.
 
-$disUsers = Get-ADUser -filter{Enabled -eq $false} -SearchBase "OU=Disabled Users,OU=Ahima,DC=ahima,DC=local"
+$disUsers = Get-ADUser -filter{Enabled -eq $false} -SearchBase "OU=Disabled Users,OU=Domain,DC=DOMAIN,DC=local"
 
 foreach ($user in $disUsers)
 {
     $uSam = $user.SamAccountName
     write-host "Checking Disabled User: $uSam"
      
-    $sharedMB = Get-Mailbox -OrganizationalUnit "ahima.local/Ahima/Administrative/Email/Mailboxes" -WarningAction SilentlyContinue
+    $sharedMB = Get-Mailbox -OrganizationalUnit "DOMAIN/Administrative/Email/Mailboxes" -WarningAction SilentlyContinue
 
     foreach ($mb in $sharedMB)
     {
