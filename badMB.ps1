@@ -24,7 +24,7 @@ $ts = date -f "yyyy-MM-dd"
 # Declare an array to collect our result objects
 $resultsarray =@()
 
-$sharedMB = Get-Mailbox -OrganizationalUnit "ahima.local/Ahima/Administrative/Email/Mailboxes" -WarningAction SilentlyContinue #-ResultSize 10
+$sharedMB = Get-Mailbox -OrganizationalUnit "DOMAIN/Administrative/Email/Mailboxes" -WarningAction SilentlyContinue #-ResultSize 10
 
 foreach ($mb in $sharedMB)
 {
