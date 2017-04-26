@@ -1,4 +1,4 @@
-﻿<#  
+<#  
 .SYNOPSIS 
     Grabs all of the accounts in the disabled user OU and then searches though the Shared mailbox OU 
     checking each mailbox for permissions. If it finds the user has permissions to a mailbox it logs 
@@ -24,8 +24,9 @@ $ts = date -f "yyyy-MM-dd_hh.mm.ss_"
 # Declare an array to collect our result objects
 $resultsarray =@()
 
+$OU = "DOMAIN/OUNAME/PATH/Email/Mailboxes"
 
-$sharedMB = Get-Mailbox -OrganizationalUnit "ahima.local/Ahima/Administrative/Email/Mailboxes" -WarningAction SilentlyContinue
+$sharedMB = Get-Mailbox -OrganizationalUnit $OU -WarningAction SilentlyContinue
 foreach ($mb in $sharedMB)
 {
     #  write-host "Checking MB: "$mb.Name
@@ -49,7 +50,6 @@ foreach ($mb in $sharedMB)
 
             #write-host $Per.User
             
-            #add-MailboxPermission -Identity $mb.identity -User $Per.User -AccessRights $Per.AccessRights -Confirm:$false -inheritancetype all
             Remove-MailboxPermission -Identity $mb.identity -User $Per.User -AccessRights $Per.AccessRights -Confirm:$false -inheritancetype all -Deny:$True
         }
     }
