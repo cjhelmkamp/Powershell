@@ -1,4 +1,15 @@
-﻿Function HideDisabledAccountsGAL {
+﻿#Add-PSSnapin Microsoft.Exchange.Management.PowerShell.E2010
+
+try{
+    Import-Module ActiveDirectory -ErrorAction Stop
+}
+catch
+{
+    throw "Module ActiveDirectory not Installed"
+    exit
+}
+
+Function HideDisabledAccountsGAL {
 
 ##########################################################################################################
 <#
@@ -56,17 +67,6 @@
 
 #>
 ##########################################################################################################
-
-Add-PSSnapin Microsoft.Exchange.Management.PowerShell.E2010
-
-try{
-    Import-Module ActiveDirectory -ErrorAction Stop
-}
-catch
-{
-    throw "Module ActiveDirectory not Installed"
-    exit
-}
 
 #Requires -version 3
 #Requires -modules ActiveDirectory
@@ -152,7 +152,7 @@ catch
                         #Write a message to screen
                         Write-Host "$DisabledAccount has been hidden from the GAL"
 
-                        }   #end of if ($?) - move
+                        #}   #end of if ($?) - move
 
                     else {
 
@@ -162,7 +162,7 @@ catch
                         }   #end of else ($?) - move
 
 
-                    #}   #end of if ($?) - disable
+                    }   #end of if ($?) - disable
 
                     Else {
 
@@ -195,7 +195,7 @@ catch
     else {
 
         #Output the stale accounts found with human-readable properties
-        $DisabledAccounts | Select-Object -Property DistinguishedName,Name,Enabled,Description, `
+        $DisabledAccounts | Select-Object -Property DistinguishedName,Name,Enabled,Description,msExchHideFromAddressLists `
                          @{Name="PwdLastSet";Expression={[datetime]::FromFileTime($_.PwdLastSet)}}, `
                          @{Name="LastLogonTimeStamp";Expression={[datetime]::FromFileTime($_.LastLogonTimeStamp)}} 
 
