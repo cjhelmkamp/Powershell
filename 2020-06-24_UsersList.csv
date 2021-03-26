@@ -1,0 +1,185 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
+"givenname","surname","userprincipalname","samaccountname","department","title","manager"
+"Escalation",,"escalation@ahima.local","escalation",,,
+"skykick",,"skykick@ahima.org","skykick",,,
+,,"RicohUSA@ahima.org","RicohUSA","Facilities","Mail Room Operations",
+"tmp_lanac2",,"tmp_lanac2@ahima.org","tmp_lanac2","Financial Services",,
+"spadmin",,"spadmin@ahima.local","spadmin","Information Technology",,
+"Rana","Abuzir","Rana.Abuzir@AHIMAfoundation.org","AbuzirR","Foundation","Coder Trainer DOLA Grant Award","CN=Anisa Tootla,OU=AHIMA Foundation,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Amber","Adams","Amber.Adams@ahima.org","AdamsA","Digital Products","Digital Media Designer",
+"Bonnie","Aguda","Bonnie.Aguda@ahimafoundation.org","AgudaB","Foundation","Senior Manager, Grants and Sponsored Projects","CN=Anisa Tootla,OU=AHIMA Foundation,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Daniela","Amendola","daniela.amendola@AHIMA.org","amendolad","Academic Affairs","Coordinator, Academic Affairs","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Angus","Atkins-Trimnell","Angus.Atkins-Trimnell@ahima.org","Atkins-trimnellA","Information Technology","Application Developer","CN=Francisco Malafaia,OU=Information Technology,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Elizabeth","Barrett","Elizabeth.Barrett@ahima.org","BarrettE","Financial Services","Finance Contractor",
+"Laurence","Barron","Laurence.Barron@ahima.org","BarronL","IT","Director of Information Technology","CN=Jason Paganessi,OU=Information Technology,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"James","Bell","James.Bell@ahima.org","BellJ","Sales & New Business Development","Nat'l Account Director, Client Prog","CN=Felipe Reyes,OU=Global Sales\, Sponsorhsip\, and Business Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Vicky","Betzig","Vicky.Betzig@ahima.org","BetzigV","Meetings and Exhibits","Interim Director of Meetings","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"John","Beverly","John.Beverly@ahima.org","BeverlyJ","Financial Services","Accounts Payable Coordinator","CN=Yvette Powell,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Michael","Bittner","Michael.Bittner@ahima.org","BittnerM","Media and Communications","Manager","CN=Anne Zender,OU=Strategic Communications,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jill","Blacketer","Jill.Blacketer@ahima.org","BlacketerJ","Creative Design","Manager, Creative",
+"Tony","Blando","Tony.Blando@ahima.org","BlandoT","Product Lines","Instructional Designer","CN=Jennifer Dawson,OU=Online Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jessica","Block","Jessica.Block@ahima.org","BlockJ","Content and Product Development","Production Development Editor","CN=Megan Grennan,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jackie","Bonyko","Jackie.Bonyko@ahima.org","BonykoJ","Marketing, Sales, & Creative","Vice President, Marketing, Creative & Sales","CN=Leslie M. Stokes,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Sue","Bowman","Sue.Bowman@ahima.org","BowmanS","Policy & Government Relations","Senior Director, Coding Policy and Compliance","CN=Lauren Riplinger,OU=Public Policy and Government Affairs,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Eric","Braun","BraunE@ahima.org","BraunE",,,
+"Chelsea","Brotherton","Chelsea.Brotherton@ahima.org","BrothertonC","Content and Product Development","Production Development Editor","CN=Megan Grennan,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Latasha","Bryant","Latasha.Bryant@ahima.org","BryantL","Executive Office","Executive Office Coordinator","CN=Patricia Shank,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Karen","Buehring","Karen.Buehring@ahima.org","BuehringK","Human Resources and Organizational Development","Vice President, Human Resources and Organizational Development","CN=Wylecia Wiggs Harris,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Bugs","Bunny","Bugs.Bunny@ahima.org","bunnyb","Information Technology","IT test user",
+"Jessica","Burnette","Burnettej@ahima.local","Burnettej","Customer Relations","Customer Relations -CD Dedicated",
+"Mary","Butler","Mary.Butler@ahima.org","ButlerM","Content and Product Development","Senior Editor","CN=Matt Schlossberg,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Patricia","Buttner","Patty.Buttner@ahima.org","ButtnerP","HIM Practice Excellence","Director, Data & Coding Standards","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Cindy","Callison","Callisonc@ahima.local","Callisonc","Customer Relations","Customer Relations -CD Dedicated",
+"James","Chen","James.Chen@ahima.org","chenj","Information Technology","Aptify Contractor",
+"JoAnn","Coleman","JoAnn.Coleman@AHIMA.org","CiattoJ","Governance and Board Operations","Senior Manager, Governance and Board Operations","CN=Carolyn Guyton-Ringbloom,OU=Governance and Board Operations,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Tammy","Combs","Tammy.Combs@ahima.org","CombsT","HIM Practice Excellence","Director, HIM Practice Excellence","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Monica","Cooper","Monica.Cooper@ahima.org","CooperM","Certification Services","Certification Coordinator",
+"Marie","Cruz","Marie.Cruz@ahima.org","CruzM","Executive Office","Executive Assistant","CN=Leslie M. Stokes,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Debbie","Daniels","debbie.daniels@ahima.org","danielsd","Financial Services","Temporary Accounts Receivable Specialist",
+"Katrina","Davis","davisk@ahima.local","davisk","Customer Relations","Customer Relations -CD Dedicated",
+"LaJune","Davis Wiley","LaJune.DavisWiley@ahima.org","DavisWileyL","Human Resources and Organizational Development","Director, Human Resources and Organizational Development","CN=Karen Buehring,OU=Human Resources,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jennifer","Dawson","Jennifer.dawson@ahima.org","dawsonj","Online Education","Instructional Designer","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Desiree","Dawson","Desiree.Dawson@ahima.org","DawsonD","Customer Relations","Customer Relations Representative","CN=Jannette Morales,OU=Customer Relations,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Ana","De Los Santos","DeLosSantosA@ahima.local","DeLosSantosA","Customer Relations","Customer Relations -CD Flex",
+"Jeffrey","DeGuilio","Jeffrey.DeGuilio@ahima.org","DeGuilioJ","Financial Services","Director, Finance, Planning & Analysis","CN=Breian Meakens,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Irena","DeJohn","Irena.Dejohn@ahima.org","DeJohnI","Financial Services","Staff Accountant","CN=Rusmir Zec,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Lori","Diehl","Lori.Diehl@ahima.org","diehll","Tributary","Sales - contractor","CN=Jackie Bonyko,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Open","DNS","OpenDNS_Connector@ahima.local","OpenDNS_Connector",,,
+"Offboard","Employee","offboard@ahima.org","offboard",,,
+"Melanie","Endicott","Melanie.Endicott@ahima.org","EndicottM","AHIMA International","Senior Director, International Education and Training","CN=Christina Roosen,OU=Ahima International,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Ruben","Estrada","Ruben.Estrada@ahima.org","EstradaR",,,
+"Ken","Fischang ","Ken.Fischang@ahima.org","FischangK",,,
+"Nikitta","Foston","Nikitta.Foston@ahima.org","FostonN","Strategic Communications","Manager, Media Relations","CN=Anne Zender,OU=Strategic Communications,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Lindsay","Friedrich","Lindsay.Friedrich@ahima.org","friedrichl","Customer Relations","Customer Relations -CD Dedicated",
+"Raphael","Gibson","Raphael.Gibson@ahima.org","GibsonR","Customer Relations","Customer Relations Representative","CN=Jannette Morales,OU=Customer Relations,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Colton","Gigot","Colton.Gigot@ahima.org","GigotC","Content and Product Development","Production Development Editor","CN=Megan Grennan,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"David","Gilmartin","David.Gilmartin@ahima.org","GilmartinD","Legal","General Counsel","CN=Amy Mosser,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Adeline","Goffin","Adeline.Goffin@ahima.org","GoffinA","AHIMA International","Sales Director Europe","CN=Christina Roosen,OU=Ahima International,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jessica","Gonzalez","Jessica.Gonzalez@ahima.org","GonzalezJ","Financial Services","Staff Accountant","CN=Rusmir Zec,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Megan","Grennan","Megan.Grennan@ahima.org","GrennanM","Publications","Director, Content Production","CN=James Pinnick,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Patricia","Hamilton","Pat.Hamilton@AHIMA.org","HamiltonP","Digital Products","Digital Products Manager","CN=Reginald Smith,OU=Digital Products,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Pamela","Haney","Pamela.Haney@AHIMAfoundation.org","HaneyP","Foundation","Lead Coder Trainer, DOLA Grant Award","CN=Anisa Tootla,OU=AHIMA Foundation,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Tanisha","Harper-Clark","Tanisha.Harper-Clark@ahima.org","HarperClarkT","Customer Relations","Customer Relations Representative","CN=Jannette Morales,OU=Customer Relations,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Dr","Harris","dr.harris@ahima.org","dr.harris","Executive Office","Chief Executive Officer",
+"Wylecia Wiggs","Harris","Wylecia.wiggsharris@ahima.org","wiggsharrisw","Executive Office","Chief Executive Officer",
+"Pamela","Hartley","HartleyP@ahima.local","HartleyP","Customer Relations","Customer Relations -CD Dedicated",
+"Jim","Hawarden","Jim.Hawarden@ahima.org","HawardenJ","Meetings, Exhibits, Travel & Sponsorships","Meetings Consultant",
+"Vicki","Hawarden","Vicki.Hawarden@ahima.org","Hawardenv","Meetings, Exhibits, Travel & Sponsorships","Meetings Consultant",
+"Chris","Helmkamp","chris.helmkamp@ahima.org","HelmkampC","Information Technology","Infrastructure Administrator","CN=Laurence Barron,OU=Information Technology,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Emma","Hernandez","HernandezE@ahima.local","HernandezE","Customer Relations","Customer Relations -CD Flex",
+"Danielle","Holmes","Danielle.Holmes@ahima.org","HolmesD","Marketing","Senior Marketing Manager","CN=Tom Murray,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Paragon","Incorporated","Paragon@ahima.org","Paragon","Information Technology","Aura Contractor",
+"Patrick","Irwin","Patrick.Irwin@ahima.org","IrwinP","Certification Services","Director","CN=Amy Mosser,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Lannisa","James","Lannisa.James@ahima.org","JamesL","Digital Products","Product Planner","CN=Reginald Smith,OU=Digital Products,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Deborah","Jani","Deborah.Jani@ahima.org","JaniD","Information Technology","Manager Business Information Systems","CN=Laurence Barron,OU=Information Technology,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Ciarra","JeanMardy","Ciarra.JeanMardy@ahima.org","JeanMardyC",,"Receptionist","CN=Patricia Shank,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Corinna","Jenner","Corinna.Jenner@ahima.org","JennerC","AHIMA International","AHIMA International Coordinator","CN=Christina Roosen,OU=Ahima International,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Stephen","Johnson","Stephen.Johnson@ahima.org","JohnsonS","Certification Services","Exam Development Specialist I","CN=Patrick Irwin,OU=Certification Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Michael","Johnson","Michael.Johnson@ahima.org","JohnsonM","Information Technology","SQL Developer","CN=Deborah Jani,OU=Information Technology,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Lesley","Kadlec","Lesley.Kadlec@ahima.org","KadlecL","Public Policy and Government Affairs","Director, Policy and State Advocacy Engagement","CN=Lauren Riplinger,OU=Public Policy and Government Affairs,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Andrew","Kazinec","KazinecA@ahima.org","KazinecA",,,
+"Daniel","Kelly","Dan.Kelly@AHIMA.org","KellyD","Creative Design","Copy Editor",
+"Jean","Kengott","Jean.Kengott@ahima.org","KengottJ","Human Resources and Organizational Development","HR Temp","CN=LaJune Davis Wiley,OU=Human Resources,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Mishaal","Khan","Mishaal.Khan@ahima.org","KhanM","Marketing","Email Marketing Manager","CN=Tom Murray,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Enoch","Khepra","KhepraE@ahima.org","KhepraE",,,
+"Jenn","Kingen Kush","Jenn.KingenKush@ahima.org","KingenKushJ","Meetings and Exhibits","Virtual Meetings Strategist","CN=Vicky Betzig,OU=Meetings and Exhibits,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Annessa","Kirby","Annessa.Kirby@ahima.org","kirbya","Membership","Senior Manager, Practice Councils","CN=Jacqualine Osafo,OU=Membership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Daniel","Klosterman","Daniel.Klosterman@ahima.org","KlostermanD","Online Learning and Development","Director","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Olin","Langley","LangleyO@ahima.org","LangleyO",,,
+"Carlos","Larralde","Carlos.Larralde@ahima.org","LarraldeC","Customer Relations","Customer Relations Representative (Lead)","CN=Jannette Morales,OU=Customer Relations,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Lawrence","Lattuca","Larry.Lattuca@AHIMA.org","LattucaL","Resource & Portfolio Management","Project Manager","CN=Matt McClarey,OU=Resource & Portfolio Management,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Pamela","Levy","Pamela.Levy@ahima.org","LevyP","Digital Products","Sr. Content Strategist","CN=Reginald Smith,OU=Digital Products,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Monica","Linders","Monica.Linders@ahima.org","LindersM","Marketing","Marketing Manager","CN=Tom Murray,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Christi","Lower","Christi.Lower@ahima.org","LowerC","Academic Affairs","Academic Affairs Subject Matter Expert","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Tonya","Lucas","LucasT@ahima.org","LucasT","Customer Relations","Customer Relations -CD Dedicated",
+"Francisco","Malafaia","Francisco.Malafaia@ahima.org","MalafaiaF","Information Technology","Sr. Application Developer","CN=Laurence Barron,OU=Information Technology,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Kim","Mancha","Kim.Mancha@ahima.org","ManchaK","AHIMA International","Senior Manager, Meetings and Programmes","CN=Christina Roosen,OU=Ahima International,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Ross","Matsuda","MatsudaR@ahima.org","MatsudaR",,,
+"Paula","Mauro","Paula.Mauro@ahima.org","maurop","Marketing","Social Media Manager","CN=Tom Murray,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Alberta","Maxwell","MaxwellA@ahima.local","MaxwellA","Customer Relations","Customer Relations -CD Flex",
+"Clarence","Mayfield","Clarence.Mayfield@ahima.org","MayfieldC","Human?Resources","Staff Accountant","CN=LaJune Davis Wiley,OU=Human Resources,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Matt","McClarey","Matt.McClarey@ahima.org","McClareyM","Resource & Portfolio Management","Senior Manager, Resource & Portfolio Management","CN=Mary Ann Sullivan,OU=Resource & Portfolio Management,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Kate","McFadyen","Kate.McFadyen@ahima.org","McFadyenK","Government Affairs","Director","CN=Lauren Riplinger,OU=Public Policy and Government Affairs,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Carol","McFarland","McFarlandc@ahima.local","McFarlandc","Customer Relations","Customer Relations -CD Dedicated",
+"Thomas","Mckoy","Thomas.Mckoy@ahima.org","mckoyt","Online Education","Senior Manager Instructional Designer","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Lexi","McPike","Lexi.McPike@ahima.org","McPikel","Content and Product Development","Newsletter Editor",
+"Breian","Meakens","Breian.Meakens@ahima.org","MeakensB","Financial Services","Vice President, Financial Services","CN=Amy Mosser,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Seth","Montague","Seth.Montague@ahimafoundation.org","MontagueS","AHIMA Foundation","Director of Development","CN=Anisa Tootla,OU=AHIMA Foundation,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jannette","Morales","Jannette.Morales@ahima.org","MoralesJ","Customer Relations","Customer Relations Manager","CN=Brian Smith,OU=Customer Relations,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Amy","Mosser","Amy.Mosser@ahima.org","MosserA","Operations office","Chief Operating Officer","CN=Wylecia Wiggs Harris,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Tom","Murray","Tom.Murray@ahima.org","MurrayT","Marketing","Senior Director, Marketing","CN=Jackie Bonyko,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Denise","Nowell","Denise.Nowell@ahima.org","nowelld","Customer Relations","Customer Relations -CD Flex",
+"Aaron","Ornelas","OrnelasA@ahima.local","OrnelasA","Customer Relations","Customer Relations -CD Flex",
+"Jacqualine","Osafo","Jacqualine.Osafo@ahima.org","OsafoJ","Membership","Vice President of Membership","CN=Leslie M. Stokes,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Victoria ","Osius","Victoria.Osius@ahima.org","OsiusV","Legal","Corporate Attorney","CN=Amy Mosser,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Mary Jane","Oxenden","MaryJane.Oxenden@ahima.org","OxendenM","Global Sales, Sponsorship and Business Development","Senior Director, Business Development","CN=Felipe Reyes,OU=Global Sales\, Sponsorhsip\, and Business Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jason","Paganessi","Jason.Paganessi@ahima.org","PaganessiJ","IT","VP of Technology","CN=Amy Mosser,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Nedra","Parker","Nedra.Parker@ahima.org","ParkerN","Certifications","Subject Matter Expert Coordinator",
+"Christine","Parker-smith","Christine.Parker-smith@ahima.org","parkersmithc","Customer Relations","Customer Relations -CD Dedicated",
+"Destini","Partlow","Destini.Partlow@ahima.org","PartlowD","Marketing, Sales, & Creative","Temp","CN=Jackie Bonyko,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Enrique","Paz","Enrique.Paz@ahima.org","PazE","Financial Services","Grants and Contract Manager","CN=Jeffrey DeGuilio,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jeanne","Petersen","Jeanne.Petersen@ahima.org","petersenj","Tributary","Sales - contractor","CN=Jackie Bonyko,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"James","Pinnick","James.Pinnick@ahima.org","PinnickJ","Content and Product Development","Vice President, Content and Product Development","CN=Leslie M. Stokes,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jon","Pisani","Jon.Pisani@ahima.org","pisanij","Information Technology","PSM Engagement Manager - Contractor",
+"Melissa","Potts","Melissa.Potts@ahima.org","PottsM","HIM Practice Excellence","CDI Practitioner","CN=Tammy Combs,OU=HIM Practice Excellence,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Yvette","Powell","Yvette.Powell@ahima.org","PowellY","Financial Services","Purchasing Manager","CN=Rusmir Zec,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Sharon","Powell","PowellS@ahima.local","PowellS","Customer Relations","Customer Relations -CD Flex",
+"Julie","Pursley","Julie.Pursley@ahima.org","DoolingJ","Content and Product Development","Director, HIM Practice Excellence","CN=James Pinnick,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Candy","Ramos","Candy.Ramos@Ahima.org","RamosC","Creative Productions","Creative Director","CN=Jackie Bonyko,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Laura","Reed","Laura.Reed@ahima.org","Laura.Reed","Meetings, Exhibits, Travel & Sponsorships","Meetings Consultant",
+"Felipe","Reyes","Felipe.Reyes@ahima.org","ReyesF","Global Sales, Sponsorship and Business Development","Vice President, Global Sales, Sponsorship and Business Developme","CN=Leslie M. Stokes,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Monica","Reyes","Monica.Reyes@ahima.org","Reyesm","Meetings and Exhibits","Meeting Content Planner","CN=Vicky Betzig,OU=Meetings and Exhibits,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"John","Richey","John.Richey@ahima.org","RicheyJ","Academic Affairs","Academic Affairs Subject Matter Expert","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Kurt","Richter","Kurt.Richter@ahima.org","RichterK","Information Technology","Application Developer","CN=Francisco Malafaia,OU=Information Technology,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Carolyn","Ringbloom","Carolyn.Guyton-Ringbloom@AHIMA.org","RingbloomC","Volunteer Leadership Development","Senior Director","CN=Wylecia Wiggs Harris,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Lauren","Riplinger","Lauren.Riplinger@ahima.org","RiplingerL","Public Policy and Government Affairs","Vice President, Public Policy and Government Affairs","CN=Leslie M. Stokes,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jeanette","Rivas","Jeanette.Rivas@ahima.org","RivasJ","Tributary","Sales - contractor","CN=Jackie Bonyko,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Treneka","Rodgers","Treneka.Rodgers@ahima.org","RodgersT","Global Sales, Sponsorship and Business Development","Sales Support Associate",
+"Christina","Roosen","Christina.Roosen@ahima.org","RoosenC","AHIMA International","Vice President, AHIMA International","CN=Wylecia Wiggs Harris,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Donna","Rugg","Donna.Rugg@ahima.org","RuggD","HIM Practice Excellence","Director","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Gina","Sanvik","Gina.Sanvik@ahima.org","SanvikG","HIM Practice Excellence","Director","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jonathan","Scalpone","jonathan.scalpone@ahima.org","scalponej","Customer Relations","Customer Relations -CD Flex",
+"Matt","Schlossberg","Matt.Schlossberg@ahima.org","SchlossbergM","Content and Product Development","Managing Editor","CN=James Pinnick,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Rachel","Schratz","Rachel.Schratz@ahima.org","SchratzR","Publications","Assistant Editor","CN=Megan Grennan,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Mike","Shanholtz","ShanholtzM@ahima.org","ShanholtzM",,,
+"Patricia","Shank","Patricia.Shank@ahima.org","shankp","Executive Office","Executive Office Manager","CN=Wylecia Wiggs Harris,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Christopher","Shay","ShayC@ahima.org","ShayC",,,
+"Sarah","Sheber","Sarah.Sheber@ahima.org","SheberS","Content and Product Development","Production Editor","CN=Matt Schlossberg,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Sally","Sidwell","sally.sidwell@ahimafoundation.org","sidwells",,,
+"Sean","Simmons","Simmonss@ahima.local","Simmonss","Customer Relations","Customer Relations -CD Flex",
+"Yolanda","Simmons-Battle","Yolanda.Simmons-Battle@ahima.org","simmonsbattley","Meetings and Exhibits","Senior Meeting Manager","CN=Vicky Betzig,OU=Meetings and Exhibits,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Graham","Simpson","Graham.Simpson@ahima.org","SimpsonG","Creative Design","Graphic Designer, The Journal","CN=Candy Ramos,OU=Creative Design,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Gina","Skiera","Gina.Skiera@ahima.org","SkieraG","Financial Services","Consultant",
+"Brian","Smith","Brian.Smith@ahima.org","SmithB","Customer Relations","Director, Customer Relations","CN=Jason Paganessi,OU=Information Technology,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Reginald","Smith","Reginald.Smith@ahima.org","SmithR","Digital Products","Director, Digital Products","CN=James Pinnick,OU=Content and Product Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Danielle","Spence","Danielle.Spence@ahima.org","SpenceD","Digital Products","UI/UX Designer","CN=Reginald Smith,OU=Digital Products,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Brian","Spencer","brian.spencer@ahima.org","spencerb","Information Technology","PSM Contractor",
+"Matthew","Spurgeon","Matthew.Spurgeon@ahima.org","SpurgeonM","Professional Development and Education","Vice President, Professional Development and Education","CN=Amy Mosser,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Robyn","Stambaugh","Robyn.Stambaugh@ahima.org","StambaughR","HIM Practice Excellence","Director, HIM?Practice Excellence","CN=Matthew Spurgeon,OU=Professional Development and Education,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Eric","Stanton","Eric.Stanton@ahima.org","StantonE","Financial Services","Business Analyst","CN=Jeffrey DeGuilio,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Leslie","Stokes","Leslie.Stokes@ahima.org","Stokesl","Product, Marketing & Sales","Chief Product, Marketing and Sales Officer","CN=Wylecia Wiggs Harris,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Mary Ann","Sullivan","MaryAnn.Sullivan@ahima.org","SullivanM","Transformation Office","Sr. Director, Change Management","CN=Amy Mosser,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Aptify","Suppot1","Aptify.Support1@ahima.local","Aptify.Support1",,,
+"KnowBe4","Sync Agent","knowbe4sync@ahima.org","knowbe4sync",,,
+"Maria","Szczech","Maria.Szczech@ahima.org","SzczechM","Certification Services","Exam Development Specialist","CN=Patrick Irwin,OU=Certification Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Andrew","Szczurek","Andrew.Szczurek@ahima.org","SzczurekA","Financial Services","Accounts Receivable Coordinator","CN=Enrique Paz,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Thomas","Taunton","TauntonT@ahima.local","TauntonT","Customer Relations","Customer Relations -CD Flex",
+"Anisa","Tootla","Anisa.Tootla@ahimafoundation.org","TootlaA","Foundation","Executive Director, AHIMA Foundation","CN=Wylecia Wiggs Harris,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Rachel","Travis","Rachel.Travis@ahima.org","TravisR","Membership","Senior Manager, Membership Engagement and Strategy","CN=Jacqualine Osafo,OU=Membership,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Aisha","Turner","Aisha.Turner@ahima.org","TurnerA","Customer Relations","Customer Relations Representative","CN=Jannette Morales,OU=Customer Relations,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Heather","Utterback","UtterbackH@ahima.local","UtterbackH","Customer Relations","Customer Relations -CD Flex",
+"Carrie","Von Drasek","Carrie.VonDrasek@ahima.org","VonDrasekC","Tributary","Sales - contractor","CN=Jackie Bonyko,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Greg","Walton","Greg.Walton@ahima.org","WaltonG","Digital Products","Corporate Account Tech Support Specialist","CN=Reginald Smith,OU=Digital Products,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Maria","Ward","Maria.Ward@ahima.org","WardM","HIM Practice Excellence","Director",
+"Yolonda","Washington","Yolonda.Washington@ahima.org","WashingtonY","Customer Relations","Customer Relations Representative","CN=Jannette Morales,OU=Customer Relations,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Ursula","Washington","Ursula.Washington@ahima.org","Washingtonu","Customer Relations","Customer Relations -CD Dedicated",
+"Tamara","Whitted","Whittedt@ahima.local","Whittedt","Customer Relations","Customer Relations -CD Dedicated",
+"Maggie","Will","Maggie.Will@ahima.org","WillM","Executive Office","Office Services Manager and Executive Assistant","CN=Breian Meakens,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Jamita","Wince","Jamita.Wince@ahima.org","WinceJ","Certification Services","Certification Operations Manager","CN=Patrick Irwin,OU=Certification Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Susan","Witzel","Susan.Witzel@ahima.org","witzels","Tributary","Sales - contractor","CN=Jackie Bonyko,OU=Marketing,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Julia","Wixtrom","Julia.Wixtrom@AHIMA.org","WixtromJ","Marketing Department","Trade Show Manager",
+"Kelli","Wondra","Kelli.Wondra@ahima.org","WondraK","Meetings, Exhibits, Travel & Sponsorships","Manager, Exhibits","CN=Felipe Reyes,OU=Global Sales\, Sponsorhsip\, and Business Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Kris","Youngsteadt","YoungsteadtK@ahima.org","YoungsteadtK",,,
+"Julie","Zak","Julie.Zak@ahima.org","ZakJ","Global Sales, Sponsorship and Business Development","Sales Account Manager","CN=Felipe Reyes,OU=Global Sales\, Sponsorhsip\, and Business Development,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Rusmir","Zec","Rusmir.Zec@ahima.org","ZecR","Financial Services","Director of Accounting","CN=Breian Meakens,OU=Financial Services,OU=Users,OU=Ahima,DC=ahima,DC=local"
+"Anne","Zender","Anne.Zender@AHIMA.org","ZenderA","Strategic Communications","Sr. Director, Strategic Communications","CN=Wylecia Wiggs Harris,OU=Executive Leadership,OU=Users,OU=Ahima,DC=ahima,DC=local"

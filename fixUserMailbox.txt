@@ -1,0 +1,30 @@
+#Specify who we're working with
+$UPN = "end.user@domain.com"
+#Local exchange server
+$ExServer = "Server1.local"
+#365 Domain - for remote routing address
+$RoutingDomain = "mydomain.mail.onmicrosoft.com"
+
+#Connect to 365 Exchange - only import select cmdlets so they don't conflict with the Exchange On Premise session
+$RemoteSession = New-PSSession -ConfigurationName Microsoft.Exchange `
+      -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $(Get-Credential) `
+      -Authentication Basic -AllowRedirection
+Import-PSSession $RemoteSession -CommandName Get-Mailbox
+
+#Connect to local exchange - only import select cmdlets so they don't conflict with the Exchange Online session
+$LocalSession = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri "http://$ExServer/PowerShell/" `
+      -Authentication Kerberos -Credential $(Get-Credential)
+Import-PSSession $LocalSession -CommandName Enable-RemoteMailbox, Set-RemoteMailbox
+
+#Get the Alias and ExchangeGuid from 365
+$Mailbox = Get-Mailbox $UPN
+$Alias = $Mailbox.Alias
+$ExchangeGUID = $Mailbox.ExchangeGuid
+
+#Create a remote mailbox
+Enable-RemoteMailbox $UPN -Alias $Alias -RemoteRoutingAddress "$Alias@$RoutingDomain"
+#Set the Remote Mailbox GUID to match the 365 mailbox GUID
+Set-RemoteMailbox $Alias -ExchangeGuid $ExchangeGUID
+
+#Remove sessions
+Get-PSSession | Remove-PSSession

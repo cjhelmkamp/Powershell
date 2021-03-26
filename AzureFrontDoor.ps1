@@ -1,0 +1,1 @@
+install-modual az

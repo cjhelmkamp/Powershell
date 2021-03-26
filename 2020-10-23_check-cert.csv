@@ -1,0 +1,153 @@
+Url,ExpirationOn,CertExpiresInDays,CheckResult,Details,Server,Service
+https://ahima.org,9/8/2022 15:09,685,OKAY,,,Web_production
+https://3m.ahima.org,,,ERROR,"Exception while checking URL https://3m.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://academy.ahima.org,3/31/2021 18:59,159,OKAY,,,
+https://advocacy.ahima.org,2/22/2021 16:55,122,OKAY,,,
+https://ahimabok-qa.ahima.org,,,ERROR,"Exception while checking URL https://ahimabok-qa.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://ahimabok-qa-authoring.ahima.org,,,ERROR,"Exception while checking URL https://ahimabok-qa-authoring.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://ahimaorg-qa.ahima.org,,,ERROR,"Exception while checking URL https://ahimaorg-qa.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://ahimaorg-qa-authoring.ahima.org,,,ERROR,"Exception while checking URL https://ahimaorg-qa-authoring.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://anyconnect.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1fw01,
+https://aoe.ahima.org,11/27/2020 15:25,35,WARNING,"Cert for site https://aoe.ahima.org expires in 35 days [on 11/27/2020 15:25:01]
+Threshold is 60 days. Check details:
+Cert name: CN=aoe.ahima.org
+Cert public key: 3082010A0282010100CBE1BB63DB3328E64C28AB8A6BAD2C6B12CA6FA74E7F2CB3490AE88DDAD058E4BFC01F5071685DCBD1A8BE61BF58910DC4F10F5EE38A88CCCF8FA2EE14A4DDE30F251C370DB90AF6FDDA14C948DA320F8D87E64761E27B2B89C819C2FDE2CD32437E1465E35D25445809FC96FE824B2D7FA59924A0CD72B05F61D4378562380D9BFFE796AFF8A0BDBCA79783C3F17F7BA30ACB41DBED8B3247C3DDD8195316FC68CDA9F57767984CD6F95729DA27F325840D86E4EC2C56F6C427CFD1439FB15F62EB06A4591C6EDBC864EFCB524984CF60F8195067A8622CF03D571F4540640A382A99BD942ADB0124D3C4F79CAE8AF3C628B6FA80A06439B3BBA4C68AABBA5D0203010001
+Cert serial number: 04C584D0D9C33140CA7B9112BFF8A31CC6F9
+Cert thumbprint: 7AE6A97FB87A46592921E3E567D1FFFF86514050
+Cert effective date: 8/29/2020 4:25:01 PM
+Cert issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,
+https://api.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://apitest.ahima.org,,,ERROR,"Exception while checking URL https://apitest.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://api-test.ahima.org,,,ERROR,"Exception while checking URL https://api-test.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://api.test.ahima.org,,,ERROR,"Exception while checking URL https://api.test.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://aptify.ahima.org,,,ERROR,"Exception while checking URL https://aptify.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (403) Forbidden."" ",,
+https://aptifyapp.ahima.org,9/8/2022 15:09,685,OKAY,,70.42.148.104,
+https://aptifytest.ahima.org,9/8/2022 15:09,685,OKAY,,70.42.148.107,
+https://autodiscover.ahima.org,,,ERROR,"Exception while checking URL https://autodiscover.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""Unable to connect to the remote server"" ",,
+https://azmeditech.ahima.org,9/8/2022 15:09,685,OKAY,Contact Meditech,,
+https://banman.ahima.org,,,ERROR,"Exception while checking URL https://banman.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://bid46gq.7932134t.ahima.org,1/26/2021 6:00,94,OKAY,,,
+https://bok.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1cld06 & 07,
+https://bok6.ahima.org,,,ERROR,"Exception while checking URL https://bok6.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://bok7.ahima.org,,,ERROR,"Exception while checking URL https://bok7.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://bs3.ahima.org,12/27/2020 15:23,65,OKAY,,,
+https://campus.ahima.org,9/8/2022 15:09,685,OKAY,,CH1EXT02,
+https://careerassist.ahima.org,11/19/2020 17:31,27,WARNING,"Cert for site https://careerassist.ahima.org expires in 27 days [on 11/19/2020 17:31:28]
+Threshold is 60 days. Check details:
+Cert name: CN=careerassist.ahima.org
+Cert public key: 3082020A0282020100B52293F3537FEBE219EC31614FF11F181D5FC1F1A4AE849D14950D5800120A3ACA9A9E07075614B513F608F507E1586A41040901CD0538511671458DF18D187A61A1DDE85607CB747502F17F58C26DDD197B9055B923BDC1738A621B0149196DE0E1D8D09080C46F6AF64954B4A367B29458A8B6F6720E77CDCC426F0193C841C4945B2223EAC762D74D31BBEE6EA64E96D56B6DEF4DEB819798AA225530E62C19280A7AEB3280171BEC51615DBAC61A79D49B29D4889A3A073248456C93514F81765C29B09FAB1AEED6A26E416ADB9D62A1896657DB73A526AC799AF4F8B53311F6EB7F7FE522CFC178629B8090EC985ED91075724C492AE4CC857643057E49A910A8785D780B7C5396100A9DEB0DBCABAF060E1F4AA2607AC04ECF2462546D2B26C960DDA9FC7420950DCCBAD133CAE4800E21E8753E99D322C258D908CC8F74542C765B238F9E9AED11DAC1C91F609BE9EB1BC20F32E0860A7157AA36A223CC4F297D35C20611FC8C946B5B354D49C7ED885F6C26B2EBEDF80C074FA8BEE7D529EFEE603A4E8C1050FB392FCBC7C6C76B05BC932F58F8011AB864CA4B7EE2A15865929CAFFA575F8DF483F1899EA5B7527306FA94A99C6CD9C1E251FB11048ED00FBAB38C64600FC5483392D3CDD32FCABED43FF27A42C76176B6225C0630690DB066CE65FA70ACCBC03493923FAAF840A86F28CC6323E85268D4CC426CED0203010001
+Cert serial number: 031E2580ADB9E49CBCE6BE784A6239B71E2B
+Cert thumbprint: AE2E8DE8205B6169339C6A732F3211012C9A658F
+Cert effective date: 8/21/2020 6:31:28 PM
+Cert issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,
+https://catalog.ahima.org,1/17/2021 21:04,86,OKAY,,,
+https://cms.ahima.org,9/8/2022 15:09,685,OKAY,,,Web_production
+https://cms.qa.ahima.org,8/17/2021 15:30,298,OKAY,,,
+https://cms-test.ahima.org,9/8/2022 15:09,685,OKAY,,,Web_Test
+https://conference.ahima.org,11/25/2020 8:30,32,WARNING,"Cert for site https://conference.ahima.org expires in 32 days [on 11/25/2020 08:30:52]
+Threshold is 60 days. Check details:
+Cert name: CN=conference.ahima.org
+Cert public key: 3082010A0282010100ACF40545AB9667394689E89C953C78C73B834466E33A4154DE4334056C31316EB8EB451D6923023249D4C13875EA48CD9F3213FE034E95520AE80C64CC180B1BAFE3DC3EEAE2CCAE2756552C48C8FCFE69B679B3A7659FD1F09C7E861EA1DABD4921636526CECF7913FAE2361FF35035BC8A6397F4E80FC19E651A473BE325C6BF8177D58EC6FFC589E3C9C767DD9350A5F82AB7BE179BD369577E4D80100560DA69A7E7C5D50F2A9BDE2558E1EB9D21CB5ABB9A331DB5E35AC5731C81001F9CF614B86068FD458D7D7D095905C2BCC83BCE169861127A65E730F5A94B1D6613939D3DBA4151B4D07B359AFC7FCEADC585F1405E472A4743576DF77A5B72ADC90203010001
+Cert serial number: 032B8A6C0E28A2DBFB34296EB4CB0A0CAF5A
+Cert thumbprint: FD08B74F9DA45D92CCF89A0B26A4A0CF101A2B62
+Cert effective date: 8/27/2020 9:30:52 AM
+Cert issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,
+https://convention.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1cld06 & 07,
+https://courseshare.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1cld06 & 07,
+https://csaleaders.ahima.org,,,ERROR,"Exception while checking URL https://csaleaders.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://eduperspectives.ahima.org,,,ERROR,"Exception while checking URL https://eduperspectives.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://em451129.ahima.org,6/9/2022 18:59,594,OKAY,,,
+https://engage.ahima.org,12/30/2020 9:05,67,OKAY,,,
+https://enterpriseenrollment.ahima.org,3/15/2021 19:30,143,OKAY,,,
+https://enterpriseregistration.ahima.org,,,ERROR,"Exception while checking URL https://enterpriseregistration.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://find.ahima.org,,,ERROR,"Exception while checking URL https://find.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://freshservice.ahima.org,11/5/2021 19:00,378,OKAY,,,
+https://guest-wifi.ahima.org,,,ERROR,"Exception while checking URL https://guest-wifi.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://hbinfo.ahima.org,,,ERROR,"Exception while checking URL https://hbinfo.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://higherlogic.ahima.org,,,ERROR,"Exception while checking URL https://higherlogic.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (500) Internal Server Error."" ",,
+https://hs1-7932134._domainkey.ahima.org,,,ERROR,"Exception while checking URL https://hs1-7932134._domainkey.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote name could not be resolved: 'hs1-7932134._domainkey.ahima.org'"" ",,
+https://hs1._domainkey.7932134t.ahima.org,,,ERROR,"Exception while checking URL https://hs1._domainkey.7932134t.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote name could not be resolved: 'hs1._domainkey.7932134t.ahima.org'"" ",,
+https://hs2-7932134._domainkey.ahima.org,,,ERROR,"Exception while checking URL https://hs2-7932134._domainkey.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote name could not be resolved: 'hs2-7932134._domainkey.ahima.org'"" ",,
+https://hs2._domainkey.7932134t.ahima.org,,,ERROR,"Exception while checking URL https://hs2._domainkey.7932134t.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote name could not be resolved: 'hs2._domainkey.7932134t.ahima.org'"" ",,
+https://hybrid.ahima.org,9/8/2022 15:09,685,OKAY,,CHI-VM-EXCAS,
+https://international.ahima.org,9/8/2022 15:09,685,OKAY,,,Web_production
+https://iso.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1cld06 & 07,
+https://ivote.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://journal.ahima.org,11/14/2020 8:44,21,WARNING,"Cert for site https://journal.ahima.org expires in 21 days [on 11/14/2020 08:44:51]
+Threshold is 60 days. Check details:
+Cert name: CN=journal.ahima.org
+Cert public key: 3082010A0282010100B2B0A333B041928AC2C1D83A7F2B00CA65F5A62E404BD1D5FEC2DE4DA53C66069B603051E2C5F1FE5810CB93F079E869A00B55D515BB76D3BA02D74A054E883392849440E3860FDFBFB5F9E92297BA30A09B47A5DA15EAB983FC1819BEBBBADA4D25DBC77F483FC9E6D4FA48B815341C31F10EB85D1C5B3F6BC142C4E1C8F12E0D3E7F45EE23CE81FD81FE3AC5F0E0EA6099FB44547E045F5B7A7390E136F25C93B59044787488A9D09D51A1CDFF37F57F872D845640B4A4E2C7853F204EDD8905B85B2B66036EEE8BFCD029949146F0AFE4A1B819512C2A88E23A7EA2AF6AAA3AB02ED7F5C0E3D253A9364595D55EF4797D799EFCD78829E8ACF6C65525AD810203010001
+Cert serial number: 0404BF5ECBA80925A7A566E497968097DB9B
+Cert thumbprint: D41818D0068DA1FA6EA180BD4A220E742767A1C7
+Cert effective date: 8/16/2020 9:44:51 AM
+Cert issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,
+https://library.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1cld06 & 07,
+https://lyncdiscover.ahima.org,6/11/2021 13:07,231,OKAY,,,
+https://mail.ahima.org,9/8/2022 15:09,685,OKAY,,CHI-VM-EXCAS,
+https://mail2.ahima.org,9/8/2022 15:09,685,OKAY,,CHI-VM-EXCAS,
+https://meditech.ahima.org,9/8/2022 15:09,685,OKAY,Contact Meditech,,
+https://meditechssh.ahima.org,,,ERROR,"Exception while checking URL https://meditechssh.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://my.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://my-qa.ahima.org,,,ERROR,"Exception while checking URL https://my-qa.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The underlying connection was closed: An unexpected error occurred on a send."" ",,
+https://mytest.ahima.org,,,ERROR,"Exception while checking URL https://mytest.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://my-test.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-TESTB,
+https://my.test.ahima.org,,,ERROR,"Exception while checking URL https://my.test.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://nuget.ahima.org,,,ERROR,"Exception while checking URL https://nuget.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (403) Forbidden."" ",,
+https://old.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1cld06 & 07,
+https://outlook.ahima.org,9/8/2022 15:09,685,OKAY,,CHI-VM-EXCAS,
+https://outlookcas.ahima.org,9/8/2022 15:09,685,OKAY,,CHI-VM-EXCAS,
+https://owa.ahima.org,7/2/2022 7:00,616,OKAY,,,
+https://perspectives.ahima.org,11/14/2020 8:51,21,WARNING,"Cert for site https://perspectives.ahima.org expires in 21 days [on 11/14/2020 08:51:13]
+Threshold is 60 days. Check details:
+Cert name: CN=perspectives.ahima.org
+Cert public key: 3082010A0282010100D19FB5C629385F93E6BC90B096122182773E205436C3EDF9C0FBA20D17F06753C64D92936FE1A76864A6B427D1FDD3130A52595F0F2159EB7965C57C7070DA5FD2685CCDE0B1CA71FED231AC6D1CCFDDB150550B5EEE16A8052C0F9A917DEDA17189B8DCD73A3A1B2A38022A0B07B81F1077AF6D0F9CA2705437C2521ABA7833E48CBE00D7BB6636813B04C8478F43526FEF8D83FC2D23C34CA42778F0FD24187047F3A44E74CDD4B89A307BDBFB20D47B46D79DF530620A6E14A55401B7EDD23E030907CB7662E4231095A678524F5ED6439E1BA6FAD3103EF743F5F97F579D82FE013D9208018E83ADE8D3EE51C234CB291A41C475B15D24C1D1E4AAAF79630203010001
+Cert serial number: 04A2D376ECCCE85EA9555D16FBA4F1ED8E40
+Cert thumbprint: 148B8F154B406423A8C35D9D2E29968F87A13E50
+Cert effective date: 8/16/2020 9:51:13 AM
+Cert issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,
+https://portal.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://portal.test.ahima.org,,,ERROR,"Exception while checking URL https://portal.test.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://pos.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://postest.ahima.org,,,ERROR,"Exception while checking URL https://postest.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (503) Server Unavailable."" ",,
+https://quantim.ahima.org,,,ERROR,"Exception while checking URL https://quantim.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://realmagnet.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://remote.ahima.org,9/8/2022 15:09,685,OKAY,,CH1RDGW01,
+https://resourceconnect.ahima.org,12/28/2020 22:47,66,OKAY,,,
+https://rras.ahima.org,,,ERROR,"Exception while checking URL https://rras.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://s451129._domainkey.ahima.org,6/9/2022 18:59,594,OKAY,,,
+https://search.ahima.org,,,ERROR,"Exception while checking URL https://search.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://secure.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://selector1._domainkey.ahima.org,,,ERROR,"Exception while checking URL https://selector1._domainkey.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote name could not be resolved: 'selector1._domainkey.ahima.org'"" ",,
+https://selector2._domainkey.ahima.org,,,ERROR,"Exception while checking URL https://selector2._domainkey.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote name could not be resolved: 'selector2._domainkey.ahima.org'"" ",,
+https://send.ahima.org,8/5/2022 14:57,651,OKAY,,,
+https://sip.ahima.org,,,ERROR,"Exception while checking URL https://sip.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://sisumeditech.ahima.org,9/8/2022 15:09,685,OKAY,Contact Meditech,,
+https://ssofs.ahima.org,,,ERROR,"Exception while checking URL https://ssofs.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (401) Unauthorized."" ",,
+https://store.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://support.ahima.org,12/17/2020 1:07,54,WARNING,"Cert for site https://support.ahima.org expires in 54 days [on 12/17/2020 01:07:30]
+Threshold is 60 days. Check details:
+Cert name: CN=support.ahima.org
+Cert public key: 3082010A0282010100C81FD08640D39E5F3F12F84D7C364CD8D8548BBF2C57C87533D889F7DBABC519770175FB43D1E60F8C2DEF6BB0186387014277B59BD842A8C4EE34644928883D0257A7883A54A42FF28EF8C1FC08151B9D721F3FE75738B1901E2B3431C157B7CE5579A3FE41E8AE716DED36CC1B0E1EC091A8A28FB539E6684BAC8A9584DC17EE2253E2E71D3ACB720D37F93009F2E9C467EC7B5602F116A9C099F27263352B0AC83276931F073BC226868DA24D58BF4716BC145BB2BCE5D138882476682B807C6F146EFF42A2E03618B9C21CC8062B44E0D456D45887F6F6AA41C8E09685F142F2E191FB20C580F4C369946233BC2A8D929180B23C6C0BFCB0BADB3DD1ED230203010001
+Cert serial number: 037749650AD49332E6518C06BFEC58AA74CE
+Cert thumbprint: BA34CC59BBC3CA10A48FE5DD31321887810E8EC0
+Cert effective date: 9/18/2020 2:07:30 AM
+Cert issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,
+https://testsearch.ahima.org,,,ERROR,"Exception while checking URL https://testsearch.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://vpn.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1fw01,
+https://vpn.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1fw01,
+https://vpn0.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1fw01,
+https://vpn1.ahima.org,9/8/2022 15:09,685,OKAY,,Ch1fw01,
+https://web01.qa.aa.ahima.org,,,ERROR,"Exception while checking URL https://web01.qa.aa.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The underlying connection was closed: An unexpected error occurred on a send."" ",,
+https://web01.test.az.ahima.org,,,ERROR,"Exception while checking URL https://web01.test.az.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://webapi.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://webapi.live.ahima.org,9/8/2022 15:09,685,OKAY,,AHIMAWEB-01B,
+https://webapi-qa.ahima.org,,,ERROR,"Exception while checking URL https://webapi-qa.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The underlying connection was closed: An unexpected error occurred on a send."" ",,
+https://webapitest.ahima.org,9/8/2022 15:09,685,OKAY,,,Web_Test
+https://webapi-test.ahima.org,,,ERROR,"Exception while checking URL https://webapi-test.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://webapi.test.ahima.org,,,ERROR,"Exception while checking URL https://webapi.test.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://websso.ahima.org,,,ERROR,"Exception while checking URL https://websso.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://www.ahima.org,9/8/2022 15:09,685,OKAY,,,Web_production
+https://www6.ahima.org,,,ERROR,"Exception while checking URL https://www6.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://www7.ahima.org,,,ERROR,"Exception while checking URL https://www7.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,
+https://www.csaleaders.ahima.org,,,ERROR,"Exception while checking URL https://www.csaleaders.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The remote server returned an error: (404) Not Found."" ",,
+https://www.test.ahima.org,,,ERROR,"Exception while checking URL https://www.test.ahima.org: Exception calling ""GetResponse"" with ""0"" argument(s): ""The operation has timed out"" ",,

@@ -37,7 +37,7 @@ foreach ($mb in $sharedMB)
     {
         write-host "Mailbox Name: "$mb.Name
         
-        foreach ($per in $mbPer)
+        foreach ($Per in $mbPer)
         {
             $contactObject = new-object PSObject            
             #Add our data to $contactObject as attributes using the add-member commandlet
