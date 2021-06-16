@@ -18,10 +18,10 @@
 .\PasswordChangeNotification.ps1 `
 -smtpServer smtp.office365.com `
 -expireInDays 14 `
--from "AHIMA Support <support@ahima.org>" `
+-from "AHIMA Support <support@example.net>" `
 -Logging -LogPath "c:\tmp" `
--testing -testRecipient chris.helmkamp@ahima.org `
--reportTo support@ahima.org `
+-testing -testRecipient dude@example.net `
+-reportTo support@example.net `
 -interval 1,2,3,5,7,11
 
 $logpath = 'C:\powershell\log'
@@ -41,12 +41,12 @@ else {
 	}
 }
 <#
-$username = "support@ahima.org"
-$password = ConvertTo-SecureString "EAT-the-cake-2019!"-AsPlainText -Force
+$username = "support@example.net"
+$password = ConvertTo-SecureString "SuperSecurePass!!"-AsPlainText -Force
 $UserCredential = New-Object System.Management.Automation.PSCredential($username,$password)
 
 $smtpServer = "smtp.office365.com"
-$emailaddress = "chris.helmkamp@ahima.org"
+$emailaddress = "dude@example.net"
 $subject = "Test Email PS"
 $body = @"
 <html>
